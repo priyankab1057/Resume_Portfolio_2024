@@ -1,0 +1,50 @@
+.capitalize {
+    text-transform: uppercase;
+}
+
+.fonts {
+    font-family: sans-serif;
+    font-weight: 700;
+    color: #EF7C8E;
+}
+
+.listItem {
+    color: #EF7C8E;
+    font-family: sans-serif;
+}
+
+.leftDiv {
+    background-color: #FAE8E0;
+    height: 100vh;
+}
+
+.rightDiv {
+    background-color: white;
+    height: 100vh;
+}
+
+.profilePicture {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+
+.name {
+    color: black;
+}
+
+.designation{
+    color: black;
+}
+
+.profileBackground {
+    background-color: #D8A7B1;
+}
+
+.mainSection {
+    background-color: #FAE8E0;
+}
+
+.contactDiv {
+    height: 100vh;
+}
